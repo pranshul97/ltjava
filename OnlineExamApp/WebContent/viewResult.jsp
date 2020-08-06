@@ -13,6 +13,6 @@
 %>
 <h1>Result= <%= result %> out of 4</h1>
 <h3>Thank You for taking the test</h3>
-<h4>See you Again</h4>
+<h4>See you Again sometime</h4>
 </body>
 </html>
